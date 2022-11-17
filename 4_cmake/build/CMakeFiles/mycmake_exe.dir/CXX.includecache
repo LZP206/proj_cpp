@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Gun.h
+iostream
+-
+
+../include/Soldier.h
+iostream
+-
+Gun.h
+../include/Gun.h
+
+/home/lzp/文档/proj_cpp/4_cmake/main.cpp
+Gun.h
+/home/lzp/文档/proj_cpp/4_cmake/Gun.h
+Soldier.h
+/home/lzp/文档/proj_cpp/4_cmake/Soldier.h
+
+/home/lzp/文档/proj_cpp/4_cmake/src/Gun.cpp
+Gun.h
+/home/lzp/文档/proj_cpp/4_cmake/src/Gun.h
+
+/home/lzp/文档/proj_cpp/4_cmake/src/Soldier.cpp
+Soldier.h
+/home/lzp/文档/proj_cpp/4_cmake/src/Soldier.h
+

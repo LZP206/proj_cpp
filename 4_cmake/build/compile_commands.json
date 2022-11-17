@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/lzp/文档/proj_cpp/4_cmake/build",
+  "command": "/usr/bin/g++   -I/home/lzp/文档/proj_cpp/4_cmake/./include   -Wall -g   -o CMakeFiles/mycmake_exe.dir/main.cpp.o -c /home/lzp/文档/proj_cpp/4_cmake/main.cpp",
+  "file": "/home/lzp/文档/proj_cpp/4_cmake/main.cpp"
+},
+{
+  "directory": "/home/lzp/文档/proj_cpp/4_cmake/build",
+  "command": "/usr/bin/g++   -I/home/lzp/文档/proj_cpp/4_cmake/./include   -Wall -g   -o CMakeFiles/mycmake_exe.dir/src/Gun.cpp.o -c /home/lzp/文档/proj_cpp/4_cmake/src/Gun.cpp",
+  "file": "/home/lzp/文档/proj_cpp/4_cmake/src/Gun.cpp"
+},
+{
+  "directory": "/home/lzp/文档/proj_cpp/4_cmake/build",
+  "command": "/usr/bin/g++   -I/home/lzp/文档/proj_cpp/4_cmake/./include   -Wall -g   -o CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.o -c /home/lzp/文档/proj_cpp/4_cmake/src/Soldier.cpp",
+  "file": "/home/lzp/文档/proj_cpp/4_cmake/src/Soldier.cpp"
+}
+]
