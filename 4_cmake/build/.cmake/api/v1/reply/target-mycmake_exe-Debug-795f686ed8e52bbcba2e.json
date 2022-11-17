@@ -42,14 +42,14 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : " -Wall -g  "
+					"fragment" : " -Wall -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 2,
-					"path" : "/home/lzp/文档/proj_cpp/4_cmake/./include"
+					"path" : "/Users/lizeping/proj_cpp/4_cmake/./include"
 				}
 			],
 			"language" : "CXX",
@@ -71,7 +71,7 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "-rdynamic",
+				"fragment" : "",
 				"role" : "flags"
 			}
 		],

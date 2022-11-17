@@ -1,18 +1,16 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "CXX"
   )
-# The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/lzp/文档/proj_cpp/4_cmake/main.cpp" "/home/lzp/文档/proj_cpp/4_cmake/build/CMakeFiles/mycmake_exe.dir/main.cpp.o"
-  "/home/lzp/文档/proj_cpp/4_cmake/src/Gun.cpp" "/home/lzp/文档/proj_cpp/4_cmake/build/CMakeFiles/mycmake_exe.dir/src/Gun.cpp.o"
-  "/home/lzp/文档/proj_cpp/4_cmake/src/Soldier.cpp" "/home/lzp/文档/proj_cpp/4_cmake/build/CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.o"
-  )
-set(CMAKE_CXX_COMPILER_ID "GNU")
 
-# The include file search paths:
-set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  ".././include"
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/lizeping/proj_cpp/4_cmake/main.cpp" "CMakeFiles/mycmake_exe.dir/main.cpp.o" "gcc" "CMakeFiles/mycmake_exe.dir/main.cpp.o.d"
+  "/Users/lizeping/proj_cpp/4_cmake/src/Gun.cpp" "CMakeFiles/mycmake_exe.dir/src/Gun.cpp.o" "gcc" "CMakeFiles/mycmake_exe.dir/src/Gun.cpp.o.d"
+  "/Users/lizeping/proj_cpp/4_cmake/src/Soldier.cpp" "CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.o" "gcc" "CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.o.d"
   )
 
 # Targets to which this target links.

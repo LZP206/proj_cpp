@@ -1,7 +1,10 @@
 file(REMOVE_RECURSE
   "CMakeFiles/mycmake_exe.dir/main.cpp.o"
+  "CMakeFiles/mycmake_exe.dir/main.cpp.o.d"
   "CMakeFiles/mycmake_exe.dir/src/Gun.cpp.o"
+  "CMakeFiles/mycmake_exe.dir/src/Gun.cpp.o.d"
   "CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.o"
+  "CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.o.d"
   "mycmake_exe"
   "mycmake_exe.pdb"
 )
