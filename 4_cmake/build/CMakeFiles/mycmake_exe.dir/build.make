@@ -73,43 +73,43 @@ CMakeFiles/mycmake_exe.dir/main.cpp.o: CMakeFiles/mycmake_exe.dir/flags.make
 CMakeFiles/mycmake_exe.dir/main.cpp.o: /Users/lizeping/proj_cpp/4_cmake/main.cpp
 CMakeFiles/mycmake_exe.dir/main.cpp.o: CMakeFiles/mycmake_exe.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lizeping/proj_cpp/4_cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mycmake_exe.dir/main.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mycmake_exe.dir/main.cpp.o -MF CMakeFiles/mycmake_exe.dir/main.cpp.o.d -o CMakeFiles/mycmake_exe.dir/main.cpp.o -c /Users/lizeping/proj_cpp/4_cmake/main.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mycmake_exe.dir/main.cpp.o -MF CMakeFiles/mycmake_exe.dir/main.cpp.o.d -o CMakeFiles/mycmake_exe.dir/main.cpp.o -c /Users/lizeping/proj_cpp/4_cmake/main.cpp
 
 CMakeFiles/mycmake_exe.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mycmake_exe.dir/main.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lizeping/proj_cpp/4_cmake/main.cpp > CMakeFiles/mycmake_exe.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lizeping/proj_cpp/4_cmake/main.cpp > CMakeFiles/mycmake_exe.dir/main.cpp.i
 
 CMakeFiles/mycmake_exe.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mycmake_exe.dir/main.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lizeping/proj_cpp/4_cmake/main.cpp -o CMakeFiles/mycmake_exe.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lizeping/proj_cpp/4_cmake/main.cpp -o CMakeFiles/mycmake_exe.dir/main.cpp.s
 
 CMakeFiles/mycmake_exe.dir/src/Gun.cpp.o: CMakeFiles/mycmake_exe.dir/flags.make
 CMakeFiles/mycmake_exe.dir/src/Gun.cpp.o: /Users/lizeping/proj_cpp/4_cmake/src/Gun.cpp
 CMakeFiles/mycmake_exe.dir/src/Gun.cpp.o: CMakeFiles/mycmake_exe.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lizeping/proj_cpp/4_cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/mycmake_exe.dir/src/Gun.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mycmake_exe.dir/src/Gun.cpp.o -MF CMakeFiles/mycmake_exe.dir/src/Gun.cpp.o.d -o CMakeFiles/mycmake_exe.dir/src/Gun.cpp.o -c /Users/lizeping/proj_cpp/4_cmake/src/Gun.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mycmake_exe.dir/src/Gun.cpp.o -MF CMakeFiles/mycmake_exe.dir/src/Gun.cpp.o.d -o CMakeFiles/mycmake_exe.dir/src/Gun.cpp.o -c /Users/lizeping/proj_cpp/4_cmake/src/Gun.cpp
 
 CMakeFiles/mycmake_exe.dir/src/Gun.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mycmake_exe.dir/src/Gun.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lizeping/proj_cpp/4_cmake/src/Gun.cpp > CMakeFiles/mycmake_exe.dir/src/Gun.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lizeping/proj_cpp/4_cmake/src/Gun.cpp > CMakeFiles/mycmake_exe.dir/src/Gun.cpp.i
 
 CMakeFiles/mycmake_exe.dir/src/Gun.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mycmake_exe.dir/src/Gun.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lizeping/proj_cpp/4_cmake/src/Gun.cpp -o CMakeFiles/mycmake_exe.dir/src/Gun.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lizeping/proj_cpp/4_cmake/src/Gun.cpp -o CMakeFiles/mycmake_exe.dir/src/Gun.cpp.s
 
 CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.o: CMakeFiles/mycmake_exe.dir/flags.make
 CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.o: /Users/lizeping/proj_cpp/4_cmake/src/Soldier.cpp
 CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.o: CMakeFiles/mycmake_exe.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/lizeping/proj_cpp/4_cmake/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.o -MF CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.o.d -o CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.o -c /Users/lizeping/proj_cpp/4_cmake/src/Soldier.cpp
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.o -MF CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.o.d -o CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.o -c /Users/lizeping/proj_cpp/4_cmake/src/Soldier.cpp
 
 CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lizeping/proj_cpp/4_cmake/src/Soldier.cpp > CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lizeping/proj_cpp/4_cmake/src/Soldier.cpp > CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.i
 
 CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lizeping/proj_cpp/4_cmake/src/Soldier.cpp -o CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lizeping/proj_cpp/4_cmake/src/Soldier.cpp -o CMakeFiles/mycmake_exe.dir/src/Soldier.cpp.s
 
 # Object files for target mycmake_exe
 mycmake_exe_OBJECTS = \
