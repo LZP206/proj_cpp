@@ -8,7 +8,7 @@
             "name": "Debug",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/exec",  //修改此处，要与task输出"-o"对应(bin/${fileBasenameNoExtension})
+            "program": "${workspaceFolder}/out.exe",  //修改此处，要与task输出"-o"对应(bin/${fileBasenameNoExtension})
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",

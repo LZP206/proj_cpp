@@ -11,24 +11,24 @@ int main()
     while (true)
     {
         _for_test_Manager.show_Menu();
-        cout << "è¯·è¾“å…¥ä½ çš„é€‰æ‹©ï¼š" << endl;
+        cout << "ÇëÊäÈëÄãµÄÑ¡Ôñ£º" << endl;
         cin >> choice;
         switch(choice)
         {
-            case 1:   // 1.å¼€å§‹æ¼”è®²æ¯”èµ›  
+            case 1:   // 1.¿ªÊ¼Ñİ½²±ÈÈü  
                 _for_test_Manager.start_Speech();
                 break;
-            case 2:   // 2.æŸ¥çœ‹å¾€å±Šè®°å½•
+            case 2:   // 2.²é¿´Íù½ì¼ÇÂ¼
                 _for_test_Manager.showRecord();
                 break;
-            case 3:   // 3.æ¸…ç©ºæ¯”èµ›è®°å½•
+            case 3:   // 3.Çå¿Õ±ÈÈü¼ÇÂ¼
                 _for_test_Manager.clearRecord();
                 break;
-            case 0:   // 0.é€€å‡ºæ¯”èµ›ç¨‹åº
+            case 0:   // 0.ÍË³ö±ÈÈü³ÌĞò
                 _for_test_Manager.exit_Manager();
                 break;
             default:
-                cout <<  "è¯·é‡æ–°é€‰æ‹© ~ ~" << endl;
+                cout <<  "ÇëÖØĞÂÑ¡Ôñ ~ ~" << endl;
                 break;
         }
     }
